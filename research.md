@@ -5,7 +5,7 @@ date: 2019-10-26
 layout: default
 ---
 
-My research focuses on the social history of Russia’s Central Asian periphery in the eighteenth – twentieth centuries. I consider my work equally part of Islamic, Russian, Persianate, Central Asian, and - increasingly - South Asian studies.
+My research focuses on the social history of Russia’s Central Asian periphery in the eighteenth – twentieth centuries. I consider my work equally part of Islamic, Russian, Persianate, Central Asian, and - increasingly - South Asian studies. You can find a complete list of publications on my [curriculum vitae](https://pitt.academia.edu/JamesPickett/CurriculumVitae).
 
 ## Polymaths of Islam
 My first book-length research project is a social and cultural history of Islamic scholars in Bukhara (now located in Uzbekistan) during the "even longer" 19th century. It will be published by Cornell University Press in 2020. I have published related work in the [*International Jouranal of Middle East Studies*](https://www.academia.edu/26854228/Nadir_Shahs_Peculiar_Central_Asian_Legacy_Empire_Conversion_Narratives_and_the_Rise_of_New_Scholarly_Dynasties) (2016) and the [*Journal of Persianate Studies*](https://www.academia.edu/17884935/Enemies_beyond_the_Red_Sands_The_Bukhara-Khiva_Dynamic_as_Mediated_by_Textual_Genre) (2016_.
