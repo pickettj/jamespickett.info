@@ -1,12 +1,13 @@
 ---
 title: "About"
-summary: "About this page."
-date: 2016-04-13
+summary: "About James Pickett"
+date: 2019-10-26
 layout: default
 ---
 
-"About" introductory paragraph.
+I am a historian of Eurasian history at the University of Pittsburgh, specializing in the history of Islam and empire as entangled sources of authority. My research focuses on the "even longer" 19th century, but I am interested in long-term continuities connecting this period both to pre-Islamic antiquity and the Soviet aftermath.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna. Aenean blandit, ligula ac faucibus posuere, felis est consequat est, id mollis ligula velit id erat. Vivamus in ullamcorper ex, nec faucibus diam. Aenean eros purus, elementum sed nunc vitae, faucibus semper nibh. In ac nisl vitae massa scelerisque sagittis a elementum lectus.
+My teaching is wide-ranging, touching on my research themes from multiple angles: from early Islam to the Mongols to imperial Russian history. Capitalizing on Pitt's strength in Slavic studies, I tend to work with graduate students studying Eastern Europe and imperial Russian borderlands.
 
-![Researcher Portrait](assets/images/ole.jpg "Ole Vik")
+
+^![Researcher Portrait](assets/images/bukh_james_bw.png "James in Bukhara")

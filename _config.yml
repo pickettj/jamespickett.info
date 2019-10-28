@@ -1,54 +1,30 @@
-name: Researcher
-description: Personal website
+name: James Pickett
+description: Personal Website
 menu:
- - page: About
-   url: /about
- - page: Papers
-   url: /papers
-   links:
-    - title: Working papers
-      url: "#working-papers"
-    - title: Published papers
-      url: "#published-papers"
- - page: Research Projects
+ - page: Research
    url: /research
    links:
-    - title: "Project One"
-      url: "#project-one"
-    - title: "Project Two"
-      url: "#project-two"
-    - title: "Project Three"
-      url: "#project-three"
-    - title: "Project Four"
-      url: "#project-four"
- - page: Curriculum Vitae
-   url: /cv
-   links:
-    - title: Experience
-      url: "#experience"
-    - title: Education
-      url: "#education"
-    - title: Positions
-      url: "#positions"
-    - title: Miscellaneous
-      url: "#miscellaneous"
+    - title: "Polymaths of Islam"
+      url: "#polymaths-of-islam"
+    - title: "Seeing like a Princely State"
+      url: "#seeing-like-a-princely-state"
+    - title: "Side Projects"
+      url: "#side-projects"
  - page: Teaching
    url: /teaching
- - page: Media
-   url: /media
- - page: Accolades
-   url: /accolades
+ - page: Graduate Advising
+   url: /graduate
 menu_external:
- - title: OleVik.me
-   url: "http://olevik.me/"
- - title: Research Gate
-   url: "https://www.researchgate.net/profile/Ole_Vik"
- - title: LinkedIn
-   url: "https://no.linkedin.com/in/olehhvik"
+ - title: Department Website
+   url: "http://www.history.pitt.edu/people/james-pickett"
+ - title: Academia.edu
+   url: "https://pitt.academia.edu/JamesPickett"
  - title: Twitter
-   url: "https://twitter.com/olehhv"
+   url: "https://twitter.com/pickettzoda"
+ - title: GitHub
+   url: "https://github.com/pickettj"
 mathjax: false
 markdown: kramdown
 encoding: utf-8
-baseurl: 
+baseurl:
 locale: en_GB

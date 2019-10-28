@@ -1,20 +1,17 @@
 ---
 title: "Research"
 summary: "About this page."
-date: 2016-04-13
+date: 2019-10-26
 layout: default
 ---
 
 "Research" introductory paragraph.
 
-## Project One
+## Polymaths of Islam
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna.
 
-## Project Two
+## Seeing like a Princely State
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna.
 
-## Project Three
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna.
-
-## Project Four
+## Side Projects
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna.
