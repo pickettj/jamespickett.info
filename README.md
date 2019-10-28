@@ -2,6 +2,9 @@
 
 Modified based on Jekyll template [developed by Ole Vik](https://github.com/OleVik/personal-academic-website).
 
+Useful workflow for two forks of github sites: http://oli.jp/2011/github-pages-workflow/
+
+
 #### Site settings
 The links in the menu, and their order, are edited through `_config.yml`. The format is also nested YAML lists, like the FrontMatter described above. **'baseurl' must be set to your repository (eg. `baseurl: username.github.io`), or the build will fail.** The `name` and `description` variable should also be set, as well as `mathjax: true` if you need to render MathJax formulas on pages.
 
