@@ -5,6 +5,5 @@ date: 2016-04-02
 layout: default
 ---
 
-"Teaching" introductory paragraph.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna. Aenean blandit, ligula ac faucibus posuere, felis est consequat est, id mollis ligula velit id erat. Vivamus in ullamcorper ex, nec faucibus diam. Aenean eros purus, elementum sed nunc vitae, faucibus semper nibh. In ac nisl vitae massa scelerisque sagittis a elementum lectus.
+I conceive of my undergraduate courses as a loose "Eurasian trilogy," beginning with ["Rise of Islam,"](https://www.academia.edu/38158975/Rise_of_Islam_Syllabus_) followed by ["Empires of the Steppe,"](https://www.academia.edu/28288742/Empires_of_the_Steppe_Eurasia_from_the_Mongols_to_the_Soviet_Union_Syllabus_) and culiminating with ["Imperial Russia."](https://www.academia.edu/37326736/Imperial_Russia_Syllabus_).
