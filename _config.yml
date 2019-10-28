@@ -26,5 +26,5 @@ menu_external:
 mathjax: false
 markdown: kramdown
 encoding: utf-8
-baseurl: /imiml
+baseurl: "jamespickett.info"
 locale: en_GB
