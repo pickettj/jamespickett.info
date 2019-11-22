@@ -12,6 +12,11 @@ menu:
       url: "#side-projects"
  - page: Teaching
    url: /teaching
+   links:
+    - title: "Courses"
+      url: "#courses"
+    - title: "For Students"
+      url: "#current-and-prospective-students"
  - page: Graduate Advising
    url: /graduate
 menu_external:
