@@ -27,7 +27,7 @@ I will send you a confirmation email when I have submitted the recommendation. I
 
 
 ---- 
-(Hat tip to [Christina Ludema][1] for the format.)
+*(Hat tip to [Christina Ludema][1] for the format.)*
 
 
 [1]:	https://twitter.com/christinaludema/status/1171523623200256001
