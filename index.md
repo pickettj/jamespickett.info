@@ -7,7 +7,7 @@ layout: default
 
 I am a historian of Eurasian history at the [University of Pittsburgh][1], specializing in the history of Islam and empire as entangled sources of authority. 
 
-I live in Pittsburgh. You can reach me at pickettj[at]pitt.edu.
+I live in Pittsburgh. You can reach me at pickettj[at]pitt.edu, and find my [CV at this link](https://pitt.academia.edu/JamesPickett/CurriculumVitae).
 
 ![Researcher Portrait][image-1]
 
