@@ -24,7 +24,7 @@ If you are a current or former student who would like me to write a recommendati
 [2]:	https://www.academia.edu/38158975/Rise_of_Islam_Syllabus_
 [3]:	https://www.academia.edu/28288742/Empires_of_the_Steppe_Eurasia_from_the_Mongols_to_the_Soviet_Union_Syllabus_
 [4]:	https://www.academia.edu/37326736/Imperial_Russia_Syllabus_
-[5]:	http://dh.obdurodon.org/description.xhtml
+[5]:	https://bactriana.org/courses.xhtml
 [6]:	https://www.dsam.pitt.edu/people/david-j-birnbaum
 [7]:	https://pitt.academia.edu/JamesPickett/Syllabi
 [8]:	http://jamespickett.info/rec_letter_questionnaire
