@@ -1,13 +1,15 @@
 ---
 title: "Recommendation Letter Questionnaire"
 summary: "About this page."
-date: 2019-11-22
+date: 2020-01-31
 layout: default
 ---
 
 I am more than happy to write a recommendation letter for you! It’s part of my job, after all. It will save me time, and lead to a better letter, if you can fill out the following information and send it to me in the *text* of an email (i.e. not as an attachment):
 
 **Student Name**: 
+
+**Submission Deadline**: 
 
 **Nature of the Recommendation (i.e. briefly describe the grant or fellowship)**:
 
@@ -25,8 +27,7 @@ I am more than happy to write a recommendation letter for you! It’s part of my
 
 I will send you a confirmation email when I have submitted the recommendation. If you have not heard back from me one week before the deadline, please send me a reminder.
 
-
----- 
+----
 *(Hat tip to [Christina Ludema][1] for the format.)*
 
 
