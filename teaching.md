@@ -9,7 +9,7 @@ My [teaching][1] is wide-ranging, touching on my research themes from multiple a
 
 ## Courses
 
-I conceive of my undergraduate courses as a loose "Eurasian trilogy," beginning with ["Rise of Islam,"][2] followed by ["Empires of the Steppe,"][3] and culminating with ["Imperial Russia."][4] My teaching methodology emphasizes [simulations](https://www.utimes.pitt.edu/news/teaching-heroes) and [hands-on activities](https://www.honorscollege.pitt.edu/islam).
+I conceive of my undergraduate courses as a loose "Eurasian trilogy," beginning with ["Rise of Islam,"][2] followed by ["Empires of the Steppe,"][3] and culminating with ["Imperial Russia."][4] My instructional methodology emphasizes [simulations](https://www.utimes.pitt.edu/news/teaching-heroes) and [hands-on activities](https://www.honorscollege.pitt.edu/islam).
 
 This spring I am team-teaching “[Computational Methods in the Humanities][5]” with [David Birnbaum][6] (Pitt Slavic Studies).
 
