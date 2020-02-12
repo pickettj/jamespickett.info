@@ -20,8 +20,10 @@ menu:
  - page: Graduate Advising
    url: /graduate
 menu_external:
- - title: Department Webpage
+ - title: Pitt History Department
    url: "http://www.history.pitt.edu/people/james-pickett"
+- title: Harvard Asia Center
+  url: "https://asiacenter.harvard.edu/people/pickett-james-2375"
  - title: Academia.edu
    url: "https://pitt.academia.edu/JamesPickett"
  - title: Twitter
