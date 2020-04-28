@@ -11,7 +11,9 @@ My [teaching][1] is wide-ranging, touching on my research themes from multiple a
 
 I conceive of my undergraduate courses as a loose "Eurasian trilogy," beginning with ["Rise of Islam,"][2] followed by ["Empires of the Steppe,"][3] and culminating with ["Imperial Russia."][4] My instructional methodology emphasizes [simulations](https://www.utimes.pitt.edu/news/teaching-heroes) and [hands-on activities](https://www.honorscollege.pitt.edu/islam).
 
-This spring I am team-teaching “[Computational Methods in the Humanities][5]” with [David Birnbaum][6] (Pitt Slavic Studies).
+In fall 2020 I will be teaching a "sequel" of sorts to "Rise of Islam" entitled "Islam in Asia," which will focus on religion outside of the Middle East from the post-Mongol period to the present.
+
+I also teach digital humanities: in spring 2020 I team-taught “[Computational Methods in the Humanities][5]” with [David Birnbaum][6] (Pitt Slavic Studies).
 
 
 ## Current and Prospective Students
