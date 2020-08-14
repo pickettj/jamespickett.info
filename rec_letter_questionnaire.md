@@ -25,6 +25,8 @@ I am more than happy to write a recommendation letter for you! It’s part of my
 
 **Are there specific ideas and themes you would like me to emphasize in the recommendation letter? Any weaknesses in your record you would like me to explain or help minimize?**:
 
+**What are three adjectives that you could imagine describing you in a recommendation letter, and what are some examples of how I might have observed those traits** (*optional but helpful*):
+
 I will send you a confirmation email when I have submitted the recommendation. If you have not heard back from me one week before the deadline, please send me a reminder.
 
 ----
