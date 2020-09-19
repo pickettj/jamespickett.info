@@ -18,7 +18,7 @@ Digital humanities is increasingly a teaching focus of mine as well: in spring 2
 
 ## Current and Prospective Students
 
-If you are a current undergraduate student of mine, you will find all course materials on Canvas. If you are considering taking one of my classes, you can find [sample syllabi at this link][7]. (Caution: students currently enrolled should consult the most up-to-date version of the syllabus on Canvas, since the sample syllabi may not reflect the current schedule.) I have also composed a set of [generalized writing guidelines](8) and useful links.
+If you are a current undergraduate student of mine, you will find all course materials on Canvas. If you are considering taking one of my classes, you can find [sample syllabi at this link][7]. (Caution: students currently enrolled should consult the most up-to-date version of the syllabus on Canvas, since the sample syllabi may not reflect the current schedule.) I have also composed a set of [generalized writing guidelines](http://jamespickett.info/writing_tips) and useful links.
 
 If you are a current or former student who would like me to write a recommendation, please [refer to these guidelines][9].
 
