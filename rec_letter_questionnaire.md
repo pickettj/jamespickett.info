@@ -5,7 +5,7 @@ date: 2020-01-31
 layout: default
 ---
 
-I am more than happy to write a recommendation letter for you! It’s part of my job, after all. It will save me time, and lead to a better letter, if you can fill out the following information and send it to me in the *text* of an email (i.e. not as an attachment):
+I am more than happy to write a recommendation letter for you! It’s part of my job, after all. It will save me time, and lead to a better letter, if you can fill out the following information and send it to me both in the text of an email *and* as an attachment:
 
 **Student Name**:
 
