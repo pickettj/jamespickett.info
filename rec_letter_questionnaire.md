@@ -7,9 +7,9 @@ layout: default
 
 I am more than happy to write a recommendation letter for you! It’s part of my job, after all. It will save me time, and lead to a better letter, if you can fill out the following information and send it to me in the *text* of an email (i.e. not as an attachment):
 
-**Student Name**: 
+**Student Name**:
 
-**Submission Deadline**: 
+**Submission Deadline**:
 
 **Nature of the Recommendation (i.e. briefly describe the grant or fellowship)**:
 
@@ -20,6 +20,8 @@ I am more than happy to write a recommendation letter for you! It’s part of my
 **How does the letter need to be submitted (e.g. by email, online, by post)?**:
 
 **How do we know each other, and for how long? (E.g. please list the classes you’ve taken, etc.)**:
+
+**If you've taken a class with me, please remind me what grades you received, and if there were any assignments (especially papers) you were particularly proud of.**:
 
 **What are your educational or career goals? How does this opportunity fit into that trajectory?**:
 
