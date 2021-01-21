@@ -1,7 +1,7 @@
 ---
 title: "Teaching"
 summary: "About this page."
-date: 2020-09-19
+date: 2021-01-21
 layout: default
 ---
 
@@ -9,7 +9,7 @@ My [teaching][1] is wide-ranging, touching on my research themes from multiple a
 
 ## Courses
 
-I conceive of my undergraduate courses as a loose "Eurasian trilogy," beginning with ["Rise of Islam,"][2] followed by ["Empires of the Steppe,"][3] and culminating with ["Imperial Russia."][4] My instructional methodology emphasizes [simulations](https://www.utimes.pitt.edu/news/teaching-heroes) and [hands-on activities](https://www.honorscollege.pitt.edu/islam).
+I conceive of my undergraduate courses as a loose "Eurasian trilogy," beginning with ["Rise of Islam,"][2] followed by ["Empires of the Steppe,"][3] and culminating with ["Imperial Russia."][4] My instructional methodology emphasizes [simulations](https://www.utimes.pitt.edu/news/teaching-heroes) and [hands-on activities](https://www.honorscollege.pitt.edu/islam). A [Faculty Spotlight interview](https://srbpodcast.org/2021/01/21/reees-faculty-spotlight-james-pickett/) goes into some depth about the ways my research background shapes my approach to teaching.
 
 I also teach a "sequel" of sorts to "Rise of Islam" for the Religious Studies department entitled "[Islam in Asia](https://www.academia.edu/44017356/Islam_in_Asia_Syllabus_)," which focuses on religion outside of the Middle East from the post-Mongol period to the present.
 

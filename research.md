@@ -1,14 +1,14 @@
 ---
 title: "Research"
 summary: "About this page."
-date: 2020-02-01
+date: 2021-01-21
 layout: default
 ---
 
 My [research][1] focuses on Eurasia's "even longer" 19th century, but I am interested in enduring continuities connecting this period both to pre-Islamic antiquity and to the Soviet aftermath. I consider my work equally part of Islamic, Russian, Persianate, Central Asian, and - increasingly - South Asian studies. You can find a complete list of publications on my [curriculum vitae][2] or my [public Zotero library][3].
 
 ## Polymaths of Islam
-My first monograph (published by [Cornell University Press][4] in 2020) is a social and cultural history of Islamic scholars in Bukhara (now located in Uzbekistan). You can find a [suberb discussion of its arguments at Islamicate Book Reviews](https://www.youtube.com/watch?v=STU9auLJS54&ab_channel=DrUsaamaal-Azami).  I have published related work in the [*International Journal of Middle East Studies*][5] (2016) and the [*Journal of Persianate Studies*][6] (2016).
+My first monograph (published by [Cornell University Press][4] in 2020) is a social and cultural history of Islamic scholars in Bukhara (now located in Uzbekistan). You can find a [suberb discussion of its arguments at Islamicate Book Reviews](https://www.youtube.com/watch?v=STU9auLJS54&ab_channel=DrUsaamaal-Azami) and an [in-depth interview with me as a New Books Network podcast](https://newbooksnetwork.com/polymaths-of-islam). I have published related work in the [*International Journal of Middle East Studies*][5] (2016) and the [*Journal of Persianate Studies*][6] (2016).
 
 ## Seeing like a Princely State
 I am now beginning a second book-length investigation of sovereignty and Perso-Islamic cultures of documentation in semi-colonial contexts, which will compare Bukhara as a Russian protectorate with Hyderabad as a British princely state. An article with the [*American Historical Review*][7] (2018) lays the ground work for this project by exploring sovereignty in Eurasia during the precolonial period; and an introduction (co-authored with [Paolo Sartori][8]) to a theme issue of the [*Journal of the Social and Economic History of the Orient*][9] (2019) argues for a new approach to the study of Islamic documents.
