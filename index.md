@@ -5,7 +5,7 @@ date: 2019-10-26
 layout: default
 ---
 
-I am a historian of Eurasian history at the [University of Pittsburgh][1], specializing in the history of Islam and empire as entangled sources of authority. 
+I am a historian of Eurasian history at the [University of Pittsburgh][1], specializing in the history of Islam and empire as entangled sources of authority.
 
 I live in Pittsburgh. You can reach me at pickettj[at]pitt.edu, and find my [CV at this link](https://pitt.academia.edu/JamesPickett/CurriculumVitae).
 
