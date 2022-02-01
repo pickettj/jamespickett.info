@@ -25,7 +25,7 @@ I am more than happy to write a recommendation letter for you! It’s part of my
 
 **How do we know each other, and for how long? (E.g. please list the classes you’ve taken, etc.)**:
 
-**If you've taken a class with me, please remind me what grades you received, and if there were any assignments (especially papers) you were particularly proud of. (It would also be helpful to include the paper or assignment that you are most proud of as an attachment.) **:
+**If you've taken a class with me, please remind me what grades you received, and if there were any assignments (especially papers) you were particularly proud of. (It would also be helpful to include the paper or assignment that you are most proud of as an attachment.) :**
 
 **What are your educational or career goals? How does this opportunity fit into that trajectory?**:
 
