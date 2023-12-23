@@ -1,20 +1,26 @@
 ---
 title: "Research"
 summary: "About this page."
-date: 2021-01-21
+date: 2023-12-23
 layout: default
 ---
 
 My [research][1] focuses on Eurasia's "even longer" 19th century, but I am interested in enduring continuities connecting this period both to pre-Islamic antiquity and to the Soviet aftermath. I consider my work equally part of Islamic, Russian, Persianate, Central Asian, and - increasingly - South Asian studies. You can find a complete list of publications on my [curriculum vitae][2] or my [public Zotero library][3].
 
 ## Polymaths of Islam
-My first monograph (published by [Cornell University Press][4] in 2020) is a social and cultural history of Islamic scholars in Bukhara (now located in Uzbekistan). You can find a [suberb discussion of its arguments at Islamicate Book Reviews](https://www.youtube.com/watch?v=STU9auLJS54&ab_channel=DrUsaamaal-Azami) and in an [in-depth interview with me as a New Books Network podcast](https://newbooksnetwork.com/polymaths-of-islam), as well as [scholarly reviews in academic journals](https://www.zotero.org/groups/2425244/james_pickett_publications/collections/7XCTMA9Q). I have published related work in the [*International Journal of Middle East Studies*][5] (2016) and the [*Journal of Persianate Studies*][6] (2016).
+My first monograph (published by [Cornell University Press][4] in 2020) is a social and cultural history of Islamic scholars in Bukhara (now located in Uzbekistan). You can find a [suberb discussion of its arguments at Islamicate Book Reviews](https://www.youtube.com/watch?v=STU9auLJS54&ab_channel=DrUsaamaal-Azami) and in an [in-depth interview with me as a New Books Network podcast](https://newbooksnetwork.com/polymaths-of-islam), as well as [scholarly reviews in academic journals](https://www.zotero.org/groups/2425244/james_pickett_publications/collections/7XCTMA9Q). I have published related work in the [*International Journal of Middle East Studies*][5] (2016), the [*Journal of Persianate Studies*][6] (2016), and in the anthology *[Islamic Ecumene: Comparing Muslim Societies](https://www.cornellpress.cornell.edu/book/9781501772399/islamic-ecumene/)* (2023).
 
-## Seeing like a Princely State
-I am now beginning a second book-length investigation of sovereignty and Perso-Islamic cultures of documentation in semi-colonial contexts, which will compare Bukhara as a Russian protectorate with Hyderabad as a British princely state. An article with the [*American Historical Review*][7] (2018) lays the ground work for this project by exploring sovereignty in Eurasia during the precolonial period; and an introduction (co-authored with [Paolo Sartori][8]) to a theme issue of the [*Journal of the Social and Economic History of the Orient*][9] (2019) argues for a new approach to the study of Islamic documents.
+## Russian Subject, Muslim Monarch
+I am currently working on a monograph about sovereignty and cultures of documentation in Central Asia, provisionally titled: *Russian Subject, Muslim Monarch: Sovereignty, Paperwork, and Colonialism in Bukhara*. Bukhara was functionally a protectorate of the Russian Empire from 1868-1920, which made it in some ways resemble a directly ruled colonial province. However, Bukhara also boasted a functioning Persianate chancer and thriving cultural life completely separate from Russia, which made it simultaneously a Perso-Islamic state. This book examines the intersection of those paradoxical realities, with chapters examining bureaucratic culture, theories of governmance, and even emergent ideas of public health. 
+
+## Seeing Like a Princely State
+
+I conceive *Russian Subject, Muslim Monarch* as part of a larger research agenda focusing on sovereignty and cultures of documentation in Persianate Eurasia more generally. More specifically, future research will place Bukhara in direct comparison with the Indian princely state of Hyderabad, which was similarly a Perso-Islamic polity with a colonial "protection" in the form of a British resident.
+
+An article with the [*American Historical Review*][7] (2018) lays the ground work for this project by exploring sovereignty in Eurasia during the precolonial period; and an introduction (co-authored with [Paolo Sartori][8]) to a theme issue of the [*Journal of the Social and Economic History of the Orient*][9] (2019) argues for a new approach to the study of Islamic documents.
 
 ## Side Projects
-These interests have led me toward a number of more self-contained projects. I have written about the [Soviet legacy of the Persianate cultural sphere][10]. I have also investigated the implications of Central Asian history for teaching Persian and Turkic langauges of Central Asia both for a [scholarly][11] and [popular audience][12]. Most recently, I have contributed a synthetic Cambridge History chapter on Persianate migration, building on my  contribution to [*Asia Inside Out*][13].
+These interests have led me toward a number of more self-contained projects. I have written about the [Soviet legacy of the Persianate cultural sphere][10]. I have also investigated the implications of Central Asian history for teaching Persian and Turkic langauges of Central Asia both for a [scholarly][11] and [popular audience][12]. Most recently, I have contributed a synthetic [Cambridge History chapter on Persianate migration](https://www.cambridge.org/core/books/cambridge-history-of-global-migrations/persianate-peregrinations-elite-migration-in-eurasia-from-the-eleventh-to-nineteenth-centuries/E0364039E953FA97009F7A293E1CEF4E?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark) (building on my  contribution to [*Asia Inside Out*][13]), and written an [overview of Central Asian history in the eighteenth and nineteenth centuries](https://doi.org/10.1093/acrefore/9780190277727.013.713).
 
 [1]:	https://pitt.academia.edu/JamesPickett/Journal-Articles
 [2]:	https://pitt.academia.edu/JamesPickett/CurriculumVitae
