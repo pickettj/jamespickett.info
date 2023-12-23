@@ -13,7 +13,7 @@ I conceive of my undergraduate courses as a loose "Eurasian trilogy," beginning 
 
 I also teach a "sequel" of sorts to "Rise of Islam" for the Religious Studies department entitled "[Islam in Asia](https://www.academia.edu/44017356/Islam_in_Asia_Syllabus_)," which focuses on religion outside of the Middle East from the post-Mongol period to the present, as well as the history department's Capstone Seminar on historical methods through the prism of South Asian history.
 
-Digital humanities is increasingly a teaching focus of mine as well: in spring 2020 I team-taught “[Computational Methods in the Humanities][5]” with [David Birnbaum][6] (Pitt Slavic Studies).
+Digital humanities is increasingly a teaching focus of mine as well: in spring 2024 I will be teaching [Computational Methods in the Humanities](https://dh.bactriana.org) (closely modeled on [David Birnbaum's course](https://dh.obdurodon.org) by the same name).
 
 
 ## Current and Prospective Students
