@@ -1,7 +1,7 @@
 ---
 title: "About"
 summary: "About James Pickett"
-date: 2019-10-26
+date: 2023-12-23
 layout: default
 ---
 
