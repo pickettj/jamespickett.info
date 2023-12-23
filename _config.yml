@@ -21,6 +21,9 @@ menu:
       url: "#current-and-prospective-students"
  - page: Graduate Advising
    url: /graduate
+   links:
+    - title: "FAQ"
+      url: "#doctoral_training_history"
 menu_external:
  - title: Pitt History Department
    url: "http://www.history.pitt.edu/people/james-pickett"
